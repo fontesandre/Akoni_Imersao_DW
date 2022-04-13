@@ -1,0 +1,25 @@
+{
+    "usuarios" : [
+        {
+            "nome": "João",
+            "ativo": true
+        },
+        {
+            "nome": "Jorge",
+            "ativo": false
+        },
+        {
+            "nome": "José",
+            "ativo": true
+        },
+        {
+            "nome": "Jonathan",
+            "ativo": false
+        },
+        {
+            "nome": "Juan",
+            "ativo": true
+        }
+    ]
+
+}

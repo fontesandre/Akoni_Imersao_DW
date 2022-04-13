@@ -1,0 +1,54 @@
+.calculadora {
+  width: 350px;
+  height: 550px;
+  text-align: center;
+  background-image:    linear-gradient(to bottom, grey , white);
+  top: 50%;
+  left: 50%;
+  border-radius: 20px;
+  padding: 15px;
+  box-shadow: 50px 5,px rgb(4, 37, 226);
+
+    
+   
+ 
+  }
+  
+  .display {
+  
+    background-color: whitesmoke; 
+    box-shadow: 2px 2px rgb(4, 37, 226);
+    width: 340px;
+    height: 70px;
+    margin: 6px;
+    font-size: 50px;
+    text-align: right;
+    padding: 0px
+
+    
+
+
+
+
+  }
+  
+  .linha {
+    display: block;
+    margin: 5px;
+  }
+  
+  .linha button {
+    font-size: 1 rem;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    box-shadow: 2px 2px rgb(4, 37, 226);
+    border-radius: 10px;
+    font-size: 40px;
+  }
+  
+  .linha :hover {
+    background-color: rgb(238, 218, 218);
+
+  }
+  
